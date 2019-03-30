@@ -6,7 +6,7 @@ A clone of the Bellroy Slim Your Wallet landing page, found at [Slim Your Wallet
 
 ```bash
 
-``
+```
 
 ## Usage
 
