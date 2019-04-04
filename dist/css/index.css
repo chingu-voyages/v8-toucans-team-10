@@ -1,2 +1,45 @@
+/*
+ * @desc this scss holds the styles for the landing pages
+ * @author Neil Symester neil.symester@siteofdreams.co.uk
+*/
+/* @group elements */
 body {
-  background-color: blue; }
+  background-color: white; }
+
+/* @group kayouts */
+/* @group components */
+.navigation div {
+  min-height: 100px;
+  background-color: mediumpurple; }
+
+.intro div {
+  min-height: 300px;
+  background-color: lightblue; }
+
+.smart div {
+  min-height: 150px;
+  background-color: orange; }
+
+.pockets div {
+  min-height: 300px;
+  background-color: orange; }
+
+.types div {
+  min-height: 200px;
+  background-color: orange; }
+
+.wallets div {
+  min-height: 500px;
+  background-color: mediumpurple; }
+
+.social div {
+  min-height: 150px;
+  background-color: lightblue; }
+
+.subscribe div {
+  min-height: 200px;
+  background-color: lightblue; }
+
+.footer div {
+  min-height: 300px;
+  background-color: lightblue; }

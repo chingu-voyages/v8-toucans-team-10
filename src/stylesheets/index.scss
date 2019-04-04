@@ -1,3 +1,24 @@
-body {
-  background-color: blue;
-}
+/*
+ * @desc this scss holds the styles for the landing pages
+ * @author Neil Symester neil.symester@siteofdreams.co.uk
+*/
+
+/* @group elements */
+
+@import 'elements';
+
+/* @group kayouts */
+
+@import 'layout';
+
+/* @group components */
+
+@import 'components/navigation';
+@import 'components/intro';
+@import 'components/smart';
+@import 'components/pockets';
+@import 'components/types';
+@import 'components/wallets';
+@import 'components/social';
+@import 'components/subscribe';
+@import 'components/footer';
