@@ -4,15 +4,25 @@ A clone of the Bellroy Slim Your Wallet landing page, found at [Slim Your Wallet
 
 ## Installation
 
-```bash
+Download NodeJs from https://nodejs.org/en/ and install it.
 
+Then open a terminal window, go to the project folder and type the following:
+
+```bash
+$ npm i
 ```
+
+This will install the plugins needed to develop our project.
+
+Next run the following:
 
 ## Usage
 
 ```bash
-
+$ npm run start
 ```
+
+This will run a version of our project under localhost:3000.
 
 ## License 
 
